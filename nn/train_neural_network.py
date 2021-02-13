@@ -125,7 +125,7 @@ TRAINING_DATA_PERCENT = 70
 START_AT_MOVE = 20
 
 BATCH_SIZE = 32
-EPOCHS = 3
+EPOCHS = 30
 
 CHECKPOINT_PATH = "model/checkpoints/cp-{epoch:04d}.ckpt"
 SAVE_PATH = "model/saved_model.h5"

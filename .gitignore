@@ -17,3 +17,6 @@
 /nn/data/raw/KingBaseLite2019/KingBaseLite2019-E60-E99.pgn
 /nn/data/custom_format/KingBaseLite2019-A00-A39.pkl
 /nn/data/custom_format/KingBaseLite2019-A40-A79.pkl
+/nn/model/checkpoints/
+/nn/model/saved_model.h5
+*pyc
